@@ -1,0 +1,5 @@
+PyQt6
+pylint
+zeroconf
+black
+pyyaml
